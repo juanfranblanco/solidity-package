@@ -1,0 +1,16 @@
+{
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "keywords": [
+    "auth"
+  ],
+  "license": "MIT",
+  "manifest_version": 1,
+  "package_name": "auth",
+  "version": "1.0.0",
+  "dependencies": {
+      "test": "1.0.0"
+  }
+}
